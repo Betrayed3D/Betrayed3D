@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Anything!**
 
-- 📫 How to reach me **g019820k@student.staffs.ac.uk**
+- 📫 How to reach me **marcus.a.gale@gmail.com**
 
 - ⚡ Fun fact **I think that I'm good at video games**
 
