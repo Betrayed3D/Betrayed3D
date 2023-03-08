@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Computer Games Programming**
 
-- 💬 Ask me about **Anything!**
+- 💬 Ask me about **games programming**
 
 - 📫 How to reach me **marcus.a.gale@gmail.com**
-
-- ⚡ Fun fact **:3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
