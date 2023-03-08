@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **marcus.a.gale@gmail.com**
 
-- ⚡ Fun fact **I think that I'm good at video games**
+- ⚡ Fun fact **:3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
