@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">An aspiring games programmer from England.</h3>
 
-- 🌱 I’m currently learning **Computer Games Programming**
+- 🌱 I’m currently learning **c++**
 
 - 💬 Ask me about **games programming**
 
