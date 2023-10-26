@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **c++ and pixel art**
 
-- 💬 Ask me about **games programming**
-
 - 📫 How to reach me **marcus.a.gale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
